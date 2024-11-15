@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Carlos!!</h1>
-<h3 align="center">A passionate Web Developer from Philippines | Expert in Next.js, React, Node.js, Javascript, Typescript.</h3>
+<h3 align="center">A passionate Web Developer from Philippines | Expert in Next.js, React.js, Node.js, Javascript, Typescript.</h3>
 
 - 🔭 I’m currently a **Freelance Web Developer**
 
