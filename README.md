@@ -7,7 +7,7 @@
 
 - 💻 My tech: **Next.js, React.js, Node.js, Typescript, Express.js, Tailwind, Javascript, HTML, CSS, Python.**
 
-- 🎯 Goal: **Work in an IT company and develop websites.**
+- 🎯 Goal: **Work in an IT company, Develop Websites, Improve skills and be the top 1 Best Developer**
 
 - 👨‍💻 All of my projects are available at [johncarlos.vercel.app](johncarlos.vercel.app)
 
