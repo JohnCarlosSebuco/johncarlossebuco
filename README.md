@@ -9,7 +9,7 @@
 
 - 🎯 Goal: **Work in an IT company, Develop Websites, Improve skills and be the top 1 Best Developer**
 
-- 👨‍💻 All of my projects are available at [johncarlos.online](johncarlos.online)
+- 👨‍💻 All of my projects are available at [https://johncarlos.online](johncarlos.online)
 
 - 💬 Ask me about **anything tech-related, I'm always ready to engage in geeky conversations!**
 
