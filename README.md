@@ -9,13 +9,13 @@
 
 - 🎯 Goal: **Work in an IT company, Develop Websites, Improve skills and be the top 1 Best Developer**
 
-- 👨‍💻 All of my projects are available at [johncarlos.vercel.app](johncarlos.online)
+- 👨‍💻 All of my projects are available at [johncarlos.online](johncarlos.online)
 
 - 💬 Ask me about **anything tech-related, I'm always ready to engage in geeky conversations!**
 
 - 📫 How to reach me **sebucojohncarlos@gmail.com**
 
-- 📄 Know about my experiences [https://johncarlos.vercel.app/Sebuco_resume.pdf](https://johncarlos.online/Sebuco_resume.pdf)
+- 📄 Know about my experiences [https://johncarlos.online/Sebuco_resume.pdf](https://johncarlos.online/Sebuco_resume.pdf)
 
 - ⚡ Fun fact **I may take a bit longer to learn new things, but I make up for it with dedication and perseverance. I never give up on a challenge, and with consistent effort, I can achieve anything I set my mind to.**
 
