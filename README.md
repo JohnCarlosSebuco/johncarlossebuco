@@ -5,7 +5,7 @@
 
 - 🌱 I’m passionate about **Web Development, Tech Stuffs and Automation**
 
-- 💻 My tech: **Next.js, React.js, Node.js, Typescript, Express.js, Tailwind, Javascript, HTML, CSS, Python.**
+- 💻 My tech: **Next.js, React.js, Node.js, Typescript, Express.js, Tailwindcss, Javascript, HTML, CSS, Python.**
 
 - 🎯 Goal: **Work in an IT company, Develop Websites, Improve skills and be the top 1 Best Developer**
 
