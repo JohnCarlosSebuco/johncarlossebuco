@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a **Freelance Web Developer**
 
-- 🌱 I’m passionate about **Web Development, Tech Stuffs and Automation**
+- 🌱 I’m passionate about **Web Development, Tech Stuff and Automation**
 
 - 💻 My tech: **Next.js, React.js, Node.js, Typescript, Express.js, Tailwindcss, Javascript, HTML, CSS, Python.**
 
