@@ -56,7 +56,7 @@
 
 ### 🐍 Watch My Contributions Snake
 <p align="center">
-![snake gif](https://github.com/JohnCarlosSebuco/JohnCarlosSebuco/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/JohnCarlosSebuco/JohnCarlosSebuco/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
