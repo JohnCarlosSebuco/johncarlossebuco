@@ -15,13 +15,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation (transparent background)
+      - name: Generate snake animation (transparent background & cooler colors)
         uses: Platane/snk@v3
         with:
           github_user_name: JohnCarlosSebuco
           outputs: |
-            dist/github-snake.svg?color_snake=#00ff00&color_dots=#1e90ff,#87cefa,#ffffff,#808080
-            dist/github-snake.gif?color_snake=#00ff00&color_dots=#1e90ff,#87cefa,#ffffff,#808080
+            dist/github-snake.svg?color_snake=#00BFFF&color_dots=#1E90FF,#00CED1,#40E0D0,#87CEFA
+            dist/github-snake.gif?color_snake=#00BFFF&color_dots=#1E90FF,#00CED1,#40E0D0,#87CEFA
 
       - name: Push generated files to output branch
         uses: EndBug/add-and-commit@v9
