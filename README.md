@@ -16,7 +16,7 @@
 - 🌱 Passionate about **Web Development, Tech Stuff & Automation**
 - 💻 My tech stack: **Next.js, React.js, Vue.js, Node.js, Typescript, Express.js, Tailwindcss, Javascript, HTML, CSS, Python**
 - 🎯 Goal: **Work in an IT company, improve skills, and be among the best developers**
-- 👨‍💻 Portfolio: [johncarlos.online](https://www.johncarlos.online)
+- 👨‍💻 Portfolio: [johncarlos.site](https://www.johncarlos.site)
 - 📫 Email me: **sebucojohncarlos@gmail.com**
 - ⚡ Fun fact: I may take longer to learn new things, but I never give up!
 
