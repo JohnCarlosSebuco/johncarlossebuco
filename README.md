@@ -1,5 +1,5 @@
 <!-- Static Name -->
-<h1 align="center">Hi 👋, I'm John Carlos!</h1>
+<h1 align="center">Hi 👋, I'm John Carlos</h1>
 
 <!-- Typing SVG -->
 <p align="center">
