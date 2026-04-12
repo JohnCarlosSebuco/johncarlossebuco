@@ -12,8 +12,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently a **Fullstack Developer**
-- 🌱 Passionate about **Web Development, Tech Stuff & Automation**
+- 🔭 I’m currently a **Senior Fullstack Developer & AI Engineer**
+- 🌱 Passionate about **Web Development, Tech Stuff, AI Generation & Automation**
 - 💻 My tech stack: **Next.js, React.js, Vue.js, Node.js, Typescript, Express.js, Tailwindcss, Javascript, HTML, CSS, Python**
 - 🎯 Goal: **Work in an IT company, improve skills, and be among the best developers**
 - 👨‍💻 Portfolio: [johncarlos.site](https://www.johncarlos.site)
