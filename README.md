@@ -18,7 +18,7 @@
 - 🎯 Goal: **Work in an IT company, improve skills, and be among the best developers**
 - 👨‍💻 Portfolio: [johncarlos.site](https://www.johncarlos.site)
 - 📫 Email me: **sebucojohncarlos@gmail.com**
-- ⚡ Fun fact: I may take longer to learn new things, but I never give up!
+- ⚡ Fun fact: I may take longer to learn new things, but I never give up!!
 
 ---
 
